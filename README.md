@@ -28,6 +28,12 @@ The project fetches earthquake data from the USGS Earthquake API.
 
 http://127.0.0.1:5500/leaflet-challenge/Leaflet-Part-1/index.html
 
+![Map Screenshot](images/Map1.png)
+![Map Screenshot](images/Map2.png)
+
+
+
+
 Earthquake data is visualized as circle markers on the map.
 The size and color of each marker are based on the earthquake's magnitude.
 
