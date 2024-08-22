@@ -28,8 +28,8 @@ The project fetches earthquake data from the USGS Earthquake API.
 
 http://127.0.0.1:5500/leaflet-challenge/Leaflet-Part-1/index.html
 
-![Map Screenshot](images/Map1.png)
-![Map Screenshot](images/Map2.png)
+![Map Screenshot](output_images/Map1.png)
+![Map Screenshot](output_images/Map2.png)
 
 
 
